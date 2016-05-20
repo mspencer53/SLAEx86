@@ -1,6 +1,6 @@
-; Filename: shell_bind_tcp.nasm
+; Filename: shell_reverse_tcp.nasm
 ; Author: Matthew Spencer
-; Description: SLAE Assignment 1. This will create shellcode that will bind a shell to any inbound ip4 address. 
+; Description: SLAE Assignment 2. This will create shellcode that will bind a shell to an external ip4 address. 
 
 global _start
 
